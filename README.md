@@ -93,8 +93,13 @@ endmodule
 ```
 **Output Waveform:**
 
+<br>
 
 ![Screenshot 2024-10-05 133039](https://github.com/user-attachments/assets/442bfcc4-8046-4175-8322-856c81031801)
+
+<br>
+<br>
+<br>
 
 **Conclusion:**
 

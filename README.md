@@ -1,14 +1,14 @@
 # Verilog-Code-for-Swapping-Three-Numbers
 
-**Aim**
+**Aim:**
 
 &emsp;&emsp;To design and simulate a Verilog HDL code for swapping the values of three numbers without using any temporary variables, and verify the correctness of the swapping operation through a testbench using the Vivado 2023.1 simulation environment.
 
-**Apparatus Required**
+**Apparatus Required:**
 
 &emsp;&emsp;Vivado 2023.1 or equivalent Verilog simulation tool.
 
-**Procedure**
+**Procedure:**
 
 **Launch Vivado 2023.1:**
 
@@ -93,8 +93,9 @@ endmodule
 ```
 **Output Waveform:**
 
+
 ![Screenshot 2024-10-05 133039](https://github.com/user-attachments/assets/442bfcc4-8046-4175-8322-856c81031801)
 
-**Conclusion**
+**Conclusion:**
 
 &emsp;&emsp;In this experiment, a Verilog HDL code for swapping three numbers was designed and successfully simulated. The testbench verified the swapping operation, showing that the values of three input numbers (a, b, and c) were swapped correctly without the use of temporary variables. This experiment demonstrated the effectiveness of Verilog in implementing logical operations and control mechanisms such as swapping values. The simulation results confirm the correct functionality of the design.
